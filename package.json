@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://peleshko.github.io/goit-js-hw-12-countries",
+  "homepage": "https://ryddik77.github.io/goit-js-hw-12-countries",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-12-countries/"
@@ -19,6 +19,7 @@
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "devDependencies": {
+    "@pnotify/core": "^5.2.0",
     "parcel-bundler": "^1.12.5",
     "parcel-plugin-handlebars-precompile": "^1.0.2",
     "parcel-plugin-nuke-dist": "^1.0.1",
@@ -27,6 +28,7 @@
     "sass": "^1.32.8"
   },
   "dependencies": {
-    "lodash.debounce": "^4.0.8"
+    "js": "^0.1.0",
+    "lodash": "^4.17.21"
   }
 }
