@@ -3,20 +3,21 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://ryddik77.github.io/goit-js-hw-12-countries",
+  "homepage": "https://hubu93.github.io/goit-js-hw-12-countries",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-12-countries/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/Hubu93/goit-js-hw-12-countries.git"
+    
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Yevhen Levandovskyi <zshenialev@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/Hubu93/goit-js-hw-12-countries/issues"
   },
   "devDependencies": {
     "@pnotify/core": "^5.2.0",
