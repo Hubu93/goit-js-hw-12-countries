@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hubu93/goit-js-hw-12-countries.git"
+    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
     
   },
   "keywords": [],
-  "author": "Yevhen Levandovskyi <zshenialev@gmail.com>",
+  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Hubu93/goit-js-hw-12-countries/issues"
+    "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "devDependencies": {
     "@pnotify/core": "^5.2.0",
